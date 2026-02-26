@@ -1,2 +1,8 @@
-# quiz-escolar-python
-Projeto de quiz escolar em Python para praticar lógica de programação.
+# 🎓 Quiz Escolar em Python
+
+Projeto feito para praticar:
+
+- Funções
+- Listas
+- Dicionários
+- Estruturas condicionais
